@@ -36,4 +36,4 @@ Run `mocha` to execute the test suite.
 
 ## Author
 
-Fierdy Pandu[https://github.com/lightkun10]
+[Fierdy Pandu Setiawan](https://github.com/lightkun10)
